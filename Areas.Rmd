@@ -35,3 +35,11 @@ base_rect <- 10
 altura_rect <- 5
 AreaRectangulo <- base_rect * altura_rect
 ```
+## Área trapecio
+
+```{r}
+b <- 4
+B <- 10
+h <- 5
+AreaTrapecio <- ((b + B) / 2) * h
+```
